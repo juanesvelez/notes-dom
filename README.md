@@ -1,5 +1,7 @@
 # DOM
 
+## [Ver slides](bit.ly/us-dom)
+
 ## Intro
 
 - Document Object Model
